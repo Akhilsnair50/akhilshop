@@ -4,7 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="aa902d19-0529-417c-b6e5-c5e2d806ea6a" name="Changes" comment="secondd" />
+    <list default="true" id="aa902d19-0529-417c-b6e5-c5e2d806ea6a" name="Changes" comment="secondd">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ShopmeWebParent/ShopmeBackend/target/ShopmeBackend-0.0.1-SNAPSHOT.jar.original" beforeDir="false" afterPath="$PROJECT_DIR$/ShopmeWebParent/ShopmeBackend/target/ShopmeBackend-0.0.1-SNAPSHOT.jar.original" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ShopmeWebParent/ShopmeFrontEnd/target/ShopmeFrontEnd-0.0.1-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/ShopmeWebParent/ShopmeFrontEnd/target/ShopmeFrontEnd-0.0.1-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ShopmeWebParent/ShopmeFrontEnd/target/ShopmeFrontEnd-0.0.1-SNAPSHOT.jar.original" beforeDir="false" afterPath="$PROJECT_DIR$/ShopmeWebParent/ShopmeFrontEnd/target/ShopmeFrontEnd-0.0.1-SNAPSHOT.jar.original" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -151,7 +156,7 @@
       </set>
     </option>
   </component>
-  <component name="RunManager" selected="Spring Boot.ShopmeFrontEndApplication">
+  <component name="RunManager" selected="Spring Boot.ShopmeBackendApplication">
     <configuration name="Constants" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.shopme.common.Constants" />
       <module name="ShopmeCommon" />
@@ -377,7 +382,7 @@
       <workItem from="1703356654817" duration="23989000" />
       <workItem from="1703381839209" duration="24099000" />
       <workItem from="1703436188805" duration="4803000" />
-      <workItem from="1703450746853" duration="24000" />
+      <workItem from="1703450746853" duration="3368000" />
     </task>
     <task id="LOCAL-00001" summary="Overclocked">
       <option name="closed" value="true" />
